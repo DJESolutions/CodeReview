@@ -6,7 +6,7 @@ requires-python = ">=3.11"
 dependencies = [
     "pandas>=2.2.3",
     "plotly>=6.0.0",
-    "pytz>=2025.1",
+    "pytz>=2026.1.post1",
     "requests>=2.32.3",
     "streamlit>=1.42.2",
     "torch>=2.6.0",
